@@ -1,0 +1,8 @@
+GET http://localhost:8080/cantina/menu/today
+Accept: application/json
+Authorization: Basic aGVucmlrOmltcG9ydGFudA==
+
+###
+GET http://localhost:8080/navigation/destination
+Accept: application/json
+Authorization: Basic aGVucmlrOmltcG9ydGFudA==
